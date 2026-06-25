@@ -5,7 +5,7 @@
 
 <!-- HERO FIGURE: export your posterior survival curves plot here. This is the first thing a Riot data scientist will see. -->
 ![Posterior survival curves](figures/survival_lobby_06.png)
-![Posterior credible intervals](figures/intervals_lobby_06.png)
+<!--![Posterior credible intervals](figures/intervals_lobby_06.png)-->
 
 ---
 
