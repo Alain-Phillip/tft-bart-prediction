@@ -4,7 +4,7 @@
 > Predicting per-round elimination probabilities for competitive TFT players using **only pre-match information** — player history and lobby-relative context — via Bayesian Additive Regression Trees (BART) framed as discrete-time survival analysis.
 
 <!-- HERO FIGURE: export your posterior survival curves plot here. This is the first thing a Riot data scientist will see. -->
-![Posterior survival curves](figures/survival_curves_by_match_full_multipage.pdf)
+![Posterior survival curves](figures/survival_lobby_06.png)
 ![Posterior credible intervals](figures/intervals_lobby_06.png)
 
 ---
